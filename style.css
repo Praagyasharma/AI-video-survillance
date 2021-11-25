@@ -1,0 +1,55 @@
+body
+{
+  background-size: cover;
+  font-weight: bold;
+  font-family:"Haettenschweiler";
+}
+
+#detect,#detect2
+{
+  width:100%;
+  height: 40px;
+  font-size: 20px;
+  font-weight: bold;
+
+}
+
+#head
+{
+    margin-top: 0px;
+    height:50px ;
+    width:100%;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#start
+{
+    height: 40px;
+  font-size: 20px;
+  width:70px;
+  font-weight: bold;
+}
+
+.footer
+{
+   box-shadow: 5px,5px,5px greenyellow;
+   font-weight: bold;
+   font-family:"Geneva";
+   bottom:0;
+   position: fixed;
+   text-align: center;
+   color:red;
+   width: 100%;
+   background-color: blue;
+   height:50px ;
+   font-size: 40px;
+}
+
+canvas
+{
+    box-shadow: 5px,5px,5px red;
+    border-radius: 30px;
+    border:2px solid blue;
+    margin-top: 100px;
+}
